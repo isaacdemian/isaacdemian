@@ -8,5 +8,6 @@ permalink: /about/
 
 Instagram: [isaacdemian](https:/instagram.com/isaacdemian)  
 X: [isaacdemian](https:/x.com/isaacdemian)  
-emai: isaacdemian@outlook.com
+email: isaacdemian@outlook.com  
+Letterboxd: [isaacdemian](https://letterboxd.com/isaacdemian/)
 
