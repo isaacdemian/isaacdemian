@@ -21,4 +21,4 @@ Aunque no lo quiera, aunque no lo sienta posible, no hay forma de traer el pasad
 
 Aún no sé qué hacer con esta revelación que he escrito aquí, pero el hecho de que no me parezca necesariamente mala creo compensa la tristeza que en otro momento me habría causado.
 
-![Hoy daría media vida por volverte a ver.](/assets/images/cualquiercosaporvolverteaver.jpg)
+![Hoy daría media vida por volverte a ver.]({{ '/assets/images/cualquiercosaporvolverteaver.jpg' | relative_url }})
