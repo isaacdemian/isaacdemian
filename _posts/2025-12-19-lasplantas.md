@@ -9,12 +9,15 @@ Por mediados del 2022 estaba pasando por una situación emocionalmente complicad
 
 Para rematar me acababa de mudar a un departamento con personas que no conocía, en una zona en la que nunca había vivido antes. Como buen foráneo que acaba de mudarse no contaba con muchas cosas, además, recién había terminado la universidad y aún no comenzaba a trabajar, por lo que tenía mucho tiempo libre. Ver melancólicamente por la ventana de mi habitación se convirtió en algo que hacía muy seguido para perder el tiempo; la vista —y me río mientras lo escribo—, daba a los lúgubres patios del Panteón Francés. Ahora que lo pienso, mi habitación de 3x5 en la Colonia Buenos Aires en la Ciudad de México era —entre muchas otras cosas— bastante deprimente.
 
-Lo único bueno en ese momento era que mi papá vivía relativamente cerca, por lo cual lo visitaba frecuentemente. Un día, al compartirle mis pensamientos sobre mi habitación, me dijo —“Hace mucho tiempo dejaste una planta aquí, y deberías llevártela”—. Aquella planta era un photos verde que apenas cabía en su maceta y del cual me había olvidado hace años. Cuando la compré apenas tenía unas cuantas hojas y, cuando mucho, dos ramas pequeñas. Pero ahora, en una esquina en el jardín de mi papá, había crecido sana, frondosa y además sus ramas medían al menos medio metro cada una.
+Lo único bueno en ese momento era que mi papá vivía relativamente cerca, por lo cual lo visitaba frecuentemente. Un día, al compartirle mis pensamientos sobre mi habitación, me dijo —“Hace mucho tiempo dejaste una planta aquí, y deberías llevártela”—. Aquella planta era un pothos verde que apenas cabía en su maceta y del cual me había olvidado hace años. Cuando la compré apenas tenía unas cuantas hojas y, cuando mucho, dos ramas pequeñas. Pero ahora, en una esquina en el jardín de mi papá, había crecido sana, frondosa y además sus ramas medían al menos medio metro cada una.
 
 La planta no había existido en mi mente desde que le dejé ahí años atrás. Pero al verla grande y viva, algo sucedió en mi cabeza. Fue como si de pronto se me hubiera revelado que sí, las plantas crecen. 
 
-<p style="text-align: center;"> ![La planta]({{ '/assets/images/photos22.jpeg' | relative_url }}) </p>
-<p style="text-align: center; font-size: 0.8em;">El día del reencuentro con el photos verde. Abril 2022.</p>
+<p style="text-align: center;">
+![La planta]({{ '/assets/images/photos22.jpeg' | relative_url }})
+</p>
+
+<p style="text-align: center; font-size: 0.8em;">El día del reencuentro con el pothos verde. Abril 2022.</p>
 
 Entonces la llevé a mi departamento y su lugar fue en un estante al lado de mi ventana. 
 
@@ -28,6 +31,8 @@ Ahora me doy cuenta de que solo las plantas podían ayudarme a sentir mejor en e
 
 Hoy, como en ese entonces, las plantas me ayudan a estar presente. Y yo a cambio, las cuidaré siempre.
 
-<p style="text-align: center;"> ![La planta]({{ '/assets/images/photos25e.png' | relative_url }}) </p>
-<p style="text-align: center; font-size: 0.8em;">El photos verde. Agosto 2022.</p>
+<p style="text-align: center;">
+![La planta]({{ '/assets/images/photos25e.png' | relative_url }})
+</p>
+<p style="text-align: center; font-size: 0.8em;">El pothos verde. Agosto 2022.</p>
 
