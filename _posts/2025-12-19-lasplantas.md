@@ -16,7 +16,7 @@ La planta no había existido en mi mente desde que le dejé ahí años atrás. P
 
 ![La planta]({{ '/assets/images/photos22.jpeg' | relative_url }})
 
-<div style="text-align: center; width: 40%; margin: 0 auto;">
+<div style="text-align: center; width: 20%; margin: 0 auto;">
 
 ![La planta]({{ '/assets/images/photos22.jpeg' | relative_url }})
 
