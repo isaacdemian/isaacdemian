@@ -38,5 +38,5 @@ Hoy, como en ese entonces, las plantas me ayudan a estar presente. Y yo a cambio
        style="width: 50%;" />
 </div>
 
-<p style="text-align: center; font-size: 0.8em;">El pothos verde. Agosto 2022.</p>
+<p style="text-align: center; font-size: 0.8em;">El pothos verde. Agosto 2025.</p>
 
