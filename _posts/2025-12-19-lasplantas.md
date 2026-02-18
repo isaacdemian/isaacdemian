@@ -14,12 +14,8 @@ Lo único bueno en ese momento era que mi papá vivía relativamente cerca, por 
 La planta no había existido en mi mente desde que le dejé ahí años atrás. Pero al verla grande y viva, algo sucedió en mi cabeza. Fue como si de pronto se me hubiera revelado que sí, las plantas crecen. 
 
 
-![La planta]({{ '/assets/images/photos22.jpeg' | relative_url }})
-
-<div style="text-align: center; width: 20%; margin: 0 auto;">
-
-![La planta]({{ '/assets/images/photos22.jpeg' | relative_url }})
-
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/photos22.jpeg' | relative_url }}" alt="La planta" style="width: 45%;" />
 </div>
 
 <p style="text-align: center; font-size: 0.8em;">El día del reencuentro con el pothos verde. Abril 2022.</p>
@@ -36,7 +32,11 @@ Ahora me doy cuenta de que solo las plantas podían ayudarme a sentir mejor en e
 
 Hoy, como en ese entonces, las plantas me ayudan a estar presente. Y yo a cambio, las cuidaré siempre.
 
-![La planta]({{ '/assets/images/photos25e.png' | relative_url }})
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/photos25e.png' | relative_url }}" 
+       alt="La planta" 
+       style="width: 50%;" />
+</div>
 
 <p style="text-align: center; font-size: 0.8em;">El pothos verde. Agosto 2022.</p>
 
